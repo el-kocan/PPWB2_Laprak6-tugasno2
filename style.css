@@ -457,8 +457,4 @@ a {
     .about__content {
         max-width: 500px;
     }
-    
-    .about__iframe {
-        flex: 1;
-    }
 }
